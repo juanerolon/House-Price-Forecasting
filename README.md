@@ -1,6 +1,8 @@
 
 # Predicting House Prices: A Supervised Learning Approach
 
+### Juan E. Rolon, 2018
+
 
 ## Project Overview  
 
